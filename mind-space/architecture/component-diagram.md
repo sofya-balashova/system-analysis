@@ -5,7 +5,7 @@
 - Core Service
 - Notification Service
 - MinIO
-- 
+
 Сервисы взаимодействуют через REST и асинхронные события
 
-!\[Диаграмма компонентов](images/component-diagram.png)
+![Диаграмма компонентов](images/component-diagram.png)
